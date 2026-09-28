@@ -9,7 +9,7 @@ public class HealthController {
 
         @GetMapping("/api/health")
         public String health() {
-            return "Job Tracker API is running";
+            return "Job Tracker API is runningg";
         }
 
 }
